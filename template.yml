@@ -1,0 +1,5 @@
+ignore:
+  - apachev2.iml
+  - .gitignore
+  - README.md
+  - LICENSE
